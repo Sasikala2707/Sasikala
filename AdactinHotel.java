@@ -77,5 +77,9 @@ public class AdactinHotel {
 		
 
 	}
-	}
+	
+}
+public void done{
+	System.out.println("done");
+}
 
