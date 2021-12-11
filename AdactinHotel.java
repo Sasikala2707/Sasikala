@@ -79,3 +79,6 @@ public class AdactinHotel {
 	}
 	}
 
+public void complete() {
+	System.out.println("Task complete");
+}
