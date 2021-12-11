@@ -83,3 +83,6 @@ public void done{
 	System.out.println("done");
 }
 
+public void complete() {
+	System.out.println("Task complete");
+}
